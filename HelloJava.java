@@ -1,6 +1,8 @@
 public class HelloJava {
     public static void main(String[] args) {
         System.out.println("Hello Java");
+        git1();
+        introduce();
     }
     public static void git1() {
         System.out.println("git ");
